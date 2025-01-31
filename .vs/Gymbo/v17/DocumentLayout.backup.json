@@ -1,0 +1,480 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\orderitemviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\sessionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\order\\vieworders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\order\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\product\\addedit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:controllers\\ingredientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\ingredient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\ingredient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\ingredient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\ingredient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\ingredient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\ingredient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\ingredient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\views\\ingredient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:views\\ingredient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\queryoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:models\\ingredient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GymBo/True/SqlTable/dbo.Products.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|c:\\users\\marek\\source\\repos\\gymbo\\gymbo\\gymbo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E3C1EF0F-360C-438D-A910-472140DC80D8}|GymBo.csproj|solutionrelative:gymbo.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T17:35:19.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T17:11:43.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ViewOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\ViewOrders.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\ViewOrders.cshtml",
+              "RelativeToolTip": "Views\\Order\\ViewOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:09:56.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\Create.cshtml",
+              "RelativeToolTip": "Views\\Order\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:09:41.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Order\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "Views\\Order\\Cart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T16:09:28.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItemViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderItemViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItemViewModel.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderItemViewModel.cs",
+              "RelativeToolTip": "Models\\OrderItemViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:57:01.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:54:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\OrderViewModel.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\OrderViewModel.cs",
+              "RelativeToolTip": "Models\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:53:03.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIAwwEMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:44:27.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SessionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\SessionExtensions.cs",
+              "RelativeDocumentMoniker": "Models\\SessionExtensions.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\SessionExtensions.cs",
+              "RelativeToolTip": "Models\\SessionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T15:40:03.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T22:54:16.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "Models\\Repository.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Repository.cs",
+              "RelativeToolTip": "Models\\Repository.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAswEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:20:18.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\IRepository.cs",
+              "RelativeDocumentMoniker": "Models\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\IRepository.cs",
+              "RelativeToolTip": "Models\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:10:17.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwH8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:57:03.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T23:00:44.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T22:34:15.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Create.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T22:14:58.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Details.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T21:49:31.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Index.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T21:37:27.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IngredientController.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\IngredientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IngredientController.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Controllers\\IngredientController.cs",
+              "RelativeToolTip": "Controllers\\IngredientController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:27:50.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "QueryOptions.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\QueryOptions.cs",
+              "RelativeDocumentMoniker": "Models\\QueryOptions.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\QueryOptions.cs",
+              "RelativeToolTip": "Models\\QueryOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:13:40.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:03:13.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AddEdit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Product\\AddEdit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AddEdit.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Product\\AddEdit.cshtml",
+              "RelativeToolTip": "Views\\Product\\AddEdit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T23:33:38.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-30T23:12:06.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Ingredient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Views\\Ingredient\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Ingredient\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-30T22:45:00.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "dbo.Products.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GymBo/True/SqlTable/dbo.Products.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/GymBo/True/SqlTable/dbo.Products.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-01-30T21:08:15.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Ingredient.cs",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Ingredient.cs",
+              "RelativeDocumentMoniker": "Models\\Ingredient.cs",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\Models\\Ingredient.cs",
+              "RelativeToolTip": "Models\\Ingredient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T21:06:41.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GymBo.csproj",
+              "DocumentMoniker": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\GymBo.csproj",
+              "RelativeDocumentMoniker": "GymBo.csproj",
+              "ToolTip": "C:\\Users\\Marek\\source\\repos\\Gymbo\\Gymbo\\GymBo.csproj",
+              "RelativeToolTip": "GymBo.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-30T21:03:10.794Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
